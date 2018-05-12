@@ -40,6 +40,6 @@ while(coun < katzDeliLine.length){
 }
   
 } 
-  return ("The line is currently: " + arr + ` `);
+  return ("The line is currently: " + " " + arr + ` `);
   
 }
