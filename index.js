@@ -35,7 +35,7 @@ var arr = [];
 var coun = 1;
 while(coun < katzDeliLine.length){
   for(var i = 0; i < katzDeliLine.length;i++){
-  arr.push(" "+ coun + "." + " " + katzDeliLine[i]);
+  arr.push(coun + "." + " " + katzDeliLine[i]);
   coun++;
 }
   
